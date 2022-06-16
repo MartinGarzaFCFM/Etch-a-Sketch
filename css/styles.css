@@ -1,0 +1,16 @@
+/* Square style */
+.square{
+    background-color: rgb(255, 255, 255);
+}
+.square-drew{
+    background-color: black;
+}
+
+/*Main Grid*/
+#grid {
+    display: grid;
+    width: 500px;
+    height: 500px;
+    background-color: var(--secondary-light);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
